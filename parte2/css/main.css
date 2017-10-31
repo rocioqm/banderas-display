@@ -1,0 +1,42 @@
+.part1 {
+  background: #ffc107;
+  display: block;
+  width: 250px;
+  height: 150px;
+
+}
+.text1 {
+  height: 100px;
+  width: 50px;
+  margin: 10px 5px;
+  padding: 5px;
+}
+
+.part2 {
+  background: #2b2b2b;
+  display: block;
+  width: 250px;
+  height: 150px;
+}
+
+.text2 {
+  color:white;
+  height: 100px;
+  width: 50px;
+  margin: 10px 5px;
+  padding: 5px;
+}
+
+.part3 {
+  background: #ffc107;
+  display: block;
+  width: 250px;
+  height: 150px;
+}
+.text3 {
+  color: black;
+  height: 100px;
+  width: 50px;
+  margin: 10px 5px;
+  padding: 5px;
+}
