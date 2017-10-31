@@ -1,23 +1,35 @@
 .part1 {
   background: #ffc107;
-  margin: 10px;
-  padding: 30px;
-}
 
+}
+.text1 {
+  display: block;
+  height: 100px;
+  width: 50px;
+  margin: 10px 5px;
+  padding: 5px;
+}
 .part2 {
   background: #2b2b2b;
-  margin: 10px;
-  padding: 30px;
-  position: relative;
 }
 
-.parte2 {
+.text2 {
   color:white;
-  position: relative;
+  display: block;
+  height: 100px;
+  width: 50px;
+  margin: 10px 5px;
+  padding: 5px;
 }
 
 .part3 {
   background: #ffc107;
-  margin: 10px;
-  padding: 30px;
+}
+.text3 {
+  color: black;
+  display: block;
+  height: 100px;
+  width: 50px;
+  margin: 10px 5px;
+  padding: 5px;
 }
